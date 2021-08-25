@@ -2,8 +2,6 @@
 # msg = input('Olá, Mundo!')
 # print(msg)
 
-
-
 # Questão 1)
 num = float(input('Digite um número: '))
 quinta = num / 5
