@@ -1,7 +1,8 @@
 'Aulas de Python'
-"Comentário 2"
-'''Comentário 3
-A soma de dois números!
+# Comentário de uma linha 
+"Comentário 3"
+'''Comentário 4 - mais de uma
+linha
 '''
 numero1 = int(input('Digite o primeiro número: '))
 numero2 = int(input('Digite o segundo número: '))
