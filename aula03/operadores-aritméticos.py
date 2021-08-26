@@ -1,4 +1,4 @@
-#msg = 'Olá, Mundo!'
+# msg = 'Olá, Mundo!'
 # msg = input('Olá, Mundo!')
 # print(msg)
 
