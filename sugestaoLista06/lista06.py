@@ -54,8 +54,7 @@ print(f'A temperatura de {F:.2f} graus Fahrenheit equivale a {C:.2f} graus Celsi
 convertida em m/s (metros por segundo). A expressão é: M = K/3.6, sendo K a velocidade
 em km/h e M em m/s.
 
-'''
-
 K = float(input('Informe a velocidade do veículo em km/h '))
 M = K / 3.6
 print(f'A velocidade de {K:.2f} km/h do veículo equivale a {M:.2f} m/s.')
+'''
