@@ -71,9 +71,7 @@ novo = preço - (preço * 5 / 100)
 print(f'O produto que custava R$ {preço:.2f} passa valer {novo:.2f} com 5% de desconto.')
 
 10. Leia o salário de um colaborador de uma determinada empresa e mostre seu novo salário, com 15\% de aumento.
-
-"""
-
 salário = float(input('Qual é o salário do funcionario? R$ '))
 novo = salário + (salário * 15 / 100)
 print(f'O funcionário que ganhava R$ {salário:.2f} passa a ganhar {novo:.2f} com 15% de aumento.')
+"""
