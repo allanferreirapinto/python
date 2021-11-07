@@ -73,4 +73,4 @@ elif anos < 10:
     novo = salário + (salário * 12.5 / 100)
 else:
     novo = salário + (salário * 20 / 100)
-print(f'Com {anos} anos na empresa, o funcionário passa a ganhar {novo:.2f} agora.')
+print(f'Com {anos} anos na empresa, o funcionário passa a ganhar {novo:.2f} agora!')
