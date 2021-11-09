@@ -103,4 +103,3 @@ Use a estrutura de repetição for neste caso.
 num = int(input('Digite um número qualquer para ver sua tabuada: '))
 for i in range(1, 11):
     print(f'{num} x {i:2} = {num * i}')
-
