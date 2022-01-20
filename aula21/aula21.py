@@ -14,6 +14,7 @@ for v in d.values():
 d = {'nome': 'Joao', 'idade': 20, 'matricula': 1}
 for k, v in d.items():
     print(f'{k} = {v}')
+
 '''
 
 dados = dict()
